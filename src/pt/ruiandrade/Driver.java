@@ -7,7 +7,7 @@ import pt.ruiandrade.formula.NotFormula;
 import pt.ruiandrade.formula.OrFormula;
 
 class Driver {
-
+	
 	public static void main(String[] args) throws Exception {
 		Parser parser = new Parser();
 		//Sidenote: Xor, Impl and Equiv are handled by CUP.
